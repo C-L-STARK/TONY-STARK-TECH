@@ -15,7 +15,6 @@
 💬 [WebSite](https://fastx-ai.com/)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
@@ -26,13 +25,11 @@
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 ```
-
 
  Last Updated on 18/08/2024 16:20:14 UTC
 <!--END_SECTION:waka-->
