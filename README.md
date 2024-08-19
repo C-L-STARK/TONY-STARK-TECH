@@ -31,7 +31,6 @@
 🕑︎ Time Zone: Asia/Shanghai
 ```
 
- Last Updated on 18/08/2024 16:20:14 UTC
 <!--END_SECTION:waka-->
 
 [![Netease recently played](https://netease-recent-profile.vercel.app/?id=82239522&theme=card&themeColor=e60026&size=300)](https://netease-recent-profile.vercel.app/?id=82239522&theme=card&themeColor=e60026&size=300)
