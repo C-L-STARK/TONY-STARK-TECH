@@ -43,6 +43,4 @@ counting of visitors to this page in this section started from Aug 19, 2024
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=TONY-STARK-TECH/TONY-STARK-TECH&type=Date)](https://star-history.com/#TONY-STARK-TECH/TONY-STARK-TECH&Date)
-
 ![](assets/Bottom_down.svg)
