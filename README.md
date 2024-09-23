@@ -10,25 +10,6 @@
 
 💬 [WebSite](https://fastx-ai.com/)
 
-<!--START_SECTION:waka-->
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-🌆 Daytime                118 commits         █████████████░░░░░░░░░░░░   52.21 % 
-🌃 Evening                77 commits          █████████░░░░░░░░░░░░░░░░   34.07 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-```
-
-<!--END_SECTION:waka-->
-
 [![Netease recently played](https://netease-recent-profile.vercel.app/?id=82239522&theme=card&themeColor=e60026&size=300)](https://netease-recent-profile.vercel.app/?id=82239522&theme=card&themeColor=e60026&size=300)
 
 <!--   my-ticker -->    
