@@ -10,11 +10,4 @@
 
 [![Netease recently played](https://netease-recent-profile.vercel.app/?id=82239522&theme=card&themeColor=e60026&size=300)](https://netease-recent-profile.vercel.app/?id=82239522&theme=card&themeColor=e60026&size=300)
 
-#### Thanks for visiting :heart:
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/TONY-STARK-TECH/count.svg">  
-
-counting of visitors to this page in this section started from Sep 19, 2024
-
 ![](assets/Bottom_down.svg)
